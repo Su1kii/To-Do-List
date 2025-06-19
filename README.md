@@ -27,7 +27,7 @@ A full-stack, authenticated to-do list application built with **Next.js 14 (App 
 
 ## 🖼️ Demo
 
-![Demo Screenshot](./screenshot.png) 
+![Demo Screenshot](./to_do.png) 
 
 ---
 
